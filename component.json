@@ -1,7 +1,7 @@
 {
   "name": "spin",
   "version": "1.2.8",
-  "main": "./dist/spin.js",
+  "main": "./dist/spin.min.js",
   "dependencies": {},
   "readme": "README.md",
   "repository": {
